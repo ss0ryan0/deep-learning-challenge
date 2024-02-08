@@ -2,7 +2,7 @@
 ## Overview
 * The purpose of this analysis is to determine what models most accurately predict the data based on the targets, features, neurons, layers, and activation functions.
 ## Results
-[Epoch Model Fit Results] (deep-learning-challenge/epochs.png)
+![Epoch Model Fit Results](deep-learning-challenge/epochs.png)
 ### Data Processing:
 * What variable(s) are the target(s) for your model?
   * _**The Application Type, the Class, and the Name**_
