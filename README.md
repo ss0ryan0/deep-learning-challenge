@@ -2,6 +2,7 @@
 ## Overview
 * The purpose of this analysis is to determine what models most accurately predict the data based on the targets, features, neurons, layers, and activation functions.
 ## Results
+[Epoch Model Fit Results] (deep-learning-challenge/epochs.png)
 ### Data Processing:
 * What variable(s) are the target(s) for your model?
   * _**The Application Type, the Class, and the Name**_
@@ -11,7 +12,7 @@
   * **_Except for attempt 2, the EIN and NAME were removed. In attempt 2, with the help and suggestion of a tutor, the Name was put back in._**
 
 ### Compiling, Training, and Evaluating the Model
-
+[Model Parameters] (deep-learning-challenge/params.png)
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
  * I did 3 layers with all 3 activation functions so that the best of all 3 functions can work together.
 Were you able to achieve the target model performance?
